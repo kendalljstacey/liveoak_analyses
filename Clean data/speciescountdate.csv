@@ -1,0 +1,451 @@
+Date,Week,Year,Species,Treatment,Location,Crop,Count 
+5/13/2020,1,2020,NV,T,Sorghum,S,1
+5/13/2020,1,2020,EQ,T,Sorghum,S,0
+5/13/2020,1,2020,ES,T,Sorghum,S,0
+5/13/2020,1,2020,Adults total,T,Sorghum,S,1
+5/13/2020,1,2020,Nymphs,T,Sorghum,S,0
+5/20/2020,2,2020,NV,T,Sorghum,S,10
+5/20/2020,2,2020,EQ,T,Sorghum,S,0
+5/20/2020,2,2020,ES,T,Sorghum,S,4
+5/20/2020,2,2020,Adults total,T,Sorghum,S,14
+5/20/2020,2,2020,Nymphs,T,Sorghum,S,0
+5/27/2020,3,2020,NV,T,Sorghum,S,71
+5/27/2020,3,2020,EQ,T,Sorghum,S,0
+5/27/2020,3,2020,ES,T,Sorghum,S,5
+5/27/2020,3,2020,Adults total,T,Sorghum,S,76
+5/27/2020,3,2020,Nymphs,T,Sorghum,S,2
+6/3/2020,4,2020,NV,T,Sorghum,S,19
+6/3/2020,4,2020,EQ,T,Sorghum,S,0
+6/3/2020,4,2020,ES,T,Sorghum,S,3
+6/3/2020,4,2020,Adults total,T,Sorghum,S,22
+6/3/2020,4,2020,Nymphs,T,Sorghum,S,0
+6/10/2020,5,2020,NV,T,Sorghum,S,8
+6/10/2020,5,2020,EQ,T,Sorghum,S,1
+6/10/2020,5,2020,ES,T,Sorghum,S,2
+6/10/2020,5,2020,Adults total,T,Sorghum,S,11
+6/10/2020,5,2020,Nymphs,T,Sorghum,S,2
+6/18/2020,6,2020,NV,T,Sorghum,S,21
+6/18/2020,6,2020,EQ,T,Sorghum,S,0
+6/18/2020,6,2020,ES,T,Sorghum,S,1
+6/18/2020,6,2020,Adults total,T,Sorghum,S,22
+6/18/2020,6,2020,Nymphs,T,Sorghum,S,0
+6/24/2020,7,2020,NV,T,Sorghum,S,11
+6/24/2020,7,2020,EQ,T,Sorghum,S,0
+6/24/2020,7,2020,ES,T,Sorghum,S,1
+6/24/2020,7,2020,Adults total,T,Sorghum,S,12
+6/24/2020,7,2020,Nymphs,T,Sorghum,S,4
+6/10/2020,5,2020,NV,C,Inner,T,1
+6/10/2020,5,2020,EQ,C,Inner,T,0
+6/10/2020,5,2020,ES,C,Inner,T,0
+6/10/2020,5,2020,Adults total,C,Inner,T,1
+6/10/2020,5,2020,Nymphs,C,Inner,T,73
+6/18/2020,6,2020,NV,C,Inner,T,0
+6/18/2020,6,2020,EQ,C,Inner,T,0
+6/18/2020,6,2020,ES,C,Inner,T,0
+6/18/2020,6,2020,Adults total,C,Inner,T,0
+6/18/2020,6,2020,Nymphs,C,Inner,T,75
+6/24/2020,7,2020,NV,C,Inner,T,3
+6/24/2020,7,2020,EQ,C,Inner,T,1
+6/24/2020,7,2020,ES,C,Inner,T,1
+6/24/2020,7,2020,Adults total,C,Inner,T,5
+6/24/2020,7,2020,Nymphs,C,Inner,T,59
+7/1/2020,8,2020,NV,C,Inner,T,4
+7/1/2020,8,2020,EQ,C,Inner,T,2
+7/1/2020,8,2020,ES,C,Inner,T,0
+7/1/2020,8,2020,Adults total,C,Inner,T,6
+7/1/2020,8,2020,Nymphs,C,Inner,T,70
+7/8/2020,9,2020,NV,C,Inner,T,8
+7/8/2020,9,2020,EQ,C,Inner,T,1
+7/8/2020,9,2020,ES,C,Inner,T,2
+7/8/2020,9,2020,Adults total,C,Inner,T,11
+7/8/2020,9,2020,Nymphs,C,Inner,T,52
+7/15/2020,10,2020,NV,C,Inner,T,10
+7/15/2020,10,2020,EQ,C,Inner,T,1
+7/15/2020,10,2020,ES,C,Inner,T,2
+7/15/2020,10,2020,Adults total,C,Inner,T,13
+7/15/2020,10,2020,Nymphs,C,Inner,T,20
+6/10/2020,5,2020,NV,T,Inner,TandS,1
+6/10/2020,5,2020,EQ,T,Inner,TandS,1
+6/10/2020,5,2020,ES,T,Inner,TandS,2
+6/10/2020,5,2020,Adults total,T,Inner,TandS,4
+6/10/2020,5,2020,Nymphs,T,Inner,TandS,86
+6/18/2020,6,2020,NV,T,Inner,TandS,0
+6/18/2020,6,2020,EQ,T,Inner,TandS,3
+6/18/2020,6,2020,ES,T,Inner,TandS,0
+6/18/2020,6,2020,Adults total,T,Inner,TandS,3
+6/18/2020,6,2020,Nymphs,T,Inner,TandS,153
+6/24/2020,7,2020,NV,T,Inner,TandS,1
+6/24/2020,7,2020,EQ,T,Inner,TandS,0
+6/24/2020,7,2020,ES,T,Inner,TandS,0
+6/24/2020,7,2020,Adults total,T,Inner,TandS,1
+6/24/2020,7,2020,Nymphs,T,Inner,TandS,128
+7/1/2020,8,2020,NV,T,Inner,TandS,7
+7/1/2020,8,2020,EQ,T,Inner,TandS,3
+7/1/2020,8,2020,ES,T,Inner,TandS,0
+7/1/2020,8,2020,Adults total,T,Inner,TandS,10
+7/1/2020,8,2020,Nymphs,T,Inner,TandS,49
+7/8/2020,9,2020,NV,T,Inner,TandS,8
+7/8/2020,9,2020,EQ,T,Inner,TandS,1
+7/8/2020,9,2020,ES,T,Inner,TandS,2
+7/8/2020,9,2020,Adults total,T,Inner,TandS,11
+7/8/2020,9,2020,Nymphs,T,Inner,TandS,52
+7/15/2020,10,2020,NV,T,Inner,TandS,18
+7/15/2020,10,2020,EQ,T,Inner,TandS,3
+7/15/2020,10,2020,ES,T,Inner,TandS,3
+7/15/2020,10,2020,Adults total,T,Inner,TandS,24
+7/15/2020,10,2020,Nymphs,T,Inner,TandS,86
+6/3/2020,4,2020,NV,C,Outer,T,1
+6/3/2020,4,2020,EQ,C,Outer,T,0
+6/3/2020,4,2020,ES,C,Outer,T,2
+6/3/2020,4,2020,Adults total,C,Outer,T,3
+6/3/2020,4,2020,Nymphs,C,Outer,T,22
+6/10/2020,5,2020,NV,C,Outer,T,5
+6/10/2020,5,2020,EQ,C,Outer,T,2
+6/10/2020,5,2020,ES,C,Outer,T,1
+6/10/2020,5,2020,Adults total,C,Outer,T,8
+6/10/2020,5,2020,Nymphs,C,Outer,T,6
+6/18/2020,6,2020,NV,C,Outer,T,0
+6/18/2020,6,2020,EQ,C,Outer,T,1
+6/18/2020,6,2020,ES,C,Outer,T,0
+6/18/2020,6,2020,Adults total,C,Outer,T,1
+6/18/2020,6,2020,Nymphs,C,Outer,T,145
+6/24/2020,7,2020,NV,C,Outer,T,0
+6/24/2020,7,2020,EQ,C,Outer,T,0
+6/24/2020,7,2020,ES,C,Outer,T,0
+6/24/2020,7,2020,Adults total,C,Outer,T,0
+6/24/2020,7,2020,Nymphs,C,Outer,T,102
+6/3/2020,4,2020,NV,T,Outer,TandS,1
+6/3/2020,4,2020,EQ,T,Outer,TandS,1
+6/3/2020,4,2020,ES,T,Outer,TandS,0
+6/3/2020,4,2020,Adults total,T,Outer,TandS,2
+6/3/2020,4,2020,Nymphs,T,Outer,TandS,68
+6/10/2020,5,2020,NV,T,Outer,TandS,6
+6/10/2020,5,2020,EQ,T,Outer,TandS,4
+6/10/2020,5,2020,ES,T,Outer,TandS,0
+6/10/2020,5,2020,Adults total,T,Outer,TandS,10
+6/10/2020,5,2020,Nymphs,T,Outer,TandS,58
+6/18/2020,6,2020,NV,T,Outer,TandS,1
+6/18/2020,6,2020,EQ,T,Outer,TandS,0
+6/18/2020,6,2020,ES,T,Outer,TandS,0
+6/18/2020,6,2020,Adults total,T,Outer,TandS,1
+6/18/2020,6,2020,Nymphs,T,Outer,TandS,53
+6/24/2020,7,2020,NV,T,Outer,TandS,3
+6/24/2020,7,2020,EQ,T,Outer,TandS,2
+6/24/2020,7,2020,ES,T,Outer,TandS,0
+6/24/2020,7,2020,Adults total,T,Outer,TandS,5
+6/24/2020,7,2020,Nymphs,T,Outer,TandS,49
+6/5/2019,1,2019,NV,T,Sorghum,S,3
+6/5/2019,1,2019,EQ,T,Sorghum,S,1
+6/5/2019,1,2019,ES,T,Sorghum,S,2
+6/5/2019,1,2019,Adults total,T,Sorghum,S,6
+6/5/2019,1,2019,Nymphs,T,Sorghum,S,2
+6/5/2019,1,2019,NV,T,Outer,TandS,0
+6/5/2019,1,2019,EQ,T,Outer,TandS,3
+6/5/2019,1,2019,ES,T,Outer,TandS,0
+6/5/2019,1,2019,Adults total,T,Outer,TandS,5
+6/5/2019,1,2019,Nymphs,T,Outer,TandS,31
+6/5/2019,1,2019,NV,T,Outer,TandS,1
+6/5/2019,1,2019,EQ,T,Outer,TandS,0
+6/5/2019,1,2019,ES,T,Outer,TandS,0
+6/5/2019,1,2019,Adults total,T,Outer,TandS,1
+6/5/2019,1,2019,Nymphs,T,Outer,TandS,17
+6/5/2019,1,2019,NV,T,Inner,TandS,0
+6/5/2019,1,2019,EQ,T,Inner,TandS,0
+6/5/2019,1,2019,ES,T,Inner,TandS,0
+6/5/2019,1,2019,Adults total,T,Inner,TandS,0
+6/5/2019,1,2019,Nymphs,T,Inner,TandS,19
+6/5/2019,1,2019,NV,T,Inner,TandS,1
+6/5/2019,1,2019,EQ,T,Inner,TandS,1
+6/5/2019,1,2019,ES,T,Inner,TandS,0
+6/5/2019,1,2019,Adults total,T,Inner,TandS,2
+6/5/2019,1,2019,Nymphs,T,Inner,TandS,10
+6/5/2019,1,2019,NV,C,Outer,T,8
+6/5/2019,1,2019,EQ,C,Outer,T,4
+6/5/2019,1,2019,ES,C,Outer,T,2
+6/5/2019,1,2019,Adults total,C,Outer,T,14
+6/5/2019,1,2019,Nymphs,C,Outer,T,34
+6/5/2019,1,2019,NV,C,Outer,T,2
+6/5/2019,1,2019,EQ,C,Outer,T,1
+6/5/2019,1,2019,ES,C,Outer,T,0
+6/5/2019,1,2019,Adults total,C,Outer,T,3
+6/5/2019,1,2019,Nymphs,C,Outer,T,10
+6/5/2019,1,2019,NV,C,Inner,T,7
+6/5/2019,1,2019,EQ,C,Inner,T,0
+6/5/2019,1,2019,ES,C,Inner,T,2
+6/5/2019,1,2019,Adults total,C,Inner,T,9
+6/5/2019,1,2019,Nymphs,C,Inner,T,13
+6/5/2019,1,2019,NV,C,Inner,T,3
+6/5/2019,1,2019,EQ,C,Inner,T,1
+6/5/2019,1,2019,ES,C,Inner,T,3
+6/5/2019,1,2019,Adults total,C,Inner,T,7
+6/5/2019,1,2019,Nymphs,C,Inner,T,33
+6/14/2019,2,2019,NV,T,Sorghum,S,11
+6/14/2019,2,2019,EQ,T,Sorghum,S,4
+6/14/2019,2,2019,ES,T,Sorghum,S,4
+6/14/2019,2,2019,Adults total,T,Sorghum,S,19
+6/14/2019,2,2019,Nymphs,T,Sorghum,S,4
+6/14/2019,2,2019,NV,T,Outer,TandS,1
+6/14/2019,2,2019,EQ,T,Outer,TandS,1
+6/14/2019,2,2019,ES,T,Outer,TandS,1
+6/14/2019,2,2019,Adults total,T,Outer,TandS,3
+6/14/2019,2,2019,Nymphs,T,Outer,TandS,31
+6/14/2019,2,2019,NV,T,Outer,TandS,3
+6/14/2019,2,2019,EQ,T,Outer,TandS,2
+6/14/2019,2,2019,ES,T,Outer,TandS,0
+6/14/2019,2,2019,Adults total,T,Outer,TandS,5
+6/14/2019,2,2019,Nymphs,T,Outer,TandS,39
+6/14/2019,2,2019,NV,T,Inner,TandS,4
+6/14/2019,2,2019,EQ,T,Inner,TandS,2
+6/14/2019,2,2019,ES,T,Inner,TandS,0
+6/14/2019,2,2019,Adults total,T,Inner,TandS,6
+6/14/2019,2,2019,Nymphs,T,Inner,TandS,40
+6/14/2019,2,2019,NV,T,Inner,TandS,3
+6/14/2019,2,2019,EQ,T,Inner,TandS,2
+6/14/2019,2,2019,ES,T,Inner,TandS,3
+6/14/2019,2,2019,Adults total,T,Inner,TandS,8
+6/14/2019,2,2019,Nymphs,T,Inner,TandS,11
+6/14/2019,2,2019,NV,C,Outer,T,10
+6/14/2019,2,2019,EQ,C,Outer,T,5
+6/14/2019,2,2019,ES,C,Outer,T,4
+6/14/2019,2,2019,Adults total,C,Outer,T,19
+6/14/2019,2,2019,Nymphs,C,Outer,T,13
+6/14/2019,2,2019,NV,C,Outer,T,1
+6/14/2019,2,2019,EQ,C,Outer,T,0
+6/14/2019,2,2019,ES,C,Outer,T,0
+6/14/2019,2,2019,Adults total,C,Outer,T,1
+6/14/2019,2,2019,Nymphs,C,Outer,T,18
+6/14/2019,2,2019,NV,C,Inner,T,4
+6/14/2019,2,2019,EQ,C,Inner,T,2
+6/14/2019,2,2019,ES,C,Inner,T,4
+6/14/2019,2,2019,Adults total,C,Inner,T,10
+6/14/2019,2,2019,Nymphs,C,Inner,T,40
+6/14/2019,2,2019,NV,C,Inner,T,2
+6/14/2019,2,2019,EQ,C,Inner,T,2
+6/14/2019,2,2019,ES,C,Inner,T,2
+6/14/2019,2,2019,Adults total,C,Inner,T,6
+6/14/2019,2,2019,Nymphs,C,Inner,T,29
+6/20/2019,3,2019,NV,T,Sorghum,S,13
+6/20/2019,3,2019,EQ,T,Sorghum,S,0
+6/20/2019,3,2019,ES,T,Sorghum,S,0
+6/20/2019,3,2019,Adults total,T,Sorghum,S,13
+6/20/2019,3,2019,Nymphs,T,Sorghum,S,3
+6/20/2019,3,2019,NV,T,Outer,TandS,2
+6/20/2019,3,2019,EQ,T,Outer,TandS,1
+6/20/2019,3,2019,ES,T,Outer,TandS,1
+6/20/2019,3,2019,Adults total,T,Outer,TandS,4
+6/20/2019,3,2019,Nymphs,T,Outer,TandS,36
+6/20/2019,3,2019,NV,T,Outer,TandS,6
+6/20/2019,3,2019,EQ,T,Outer,TandS,0
+6/20/2019,3,2019,ES,T,Outer,TandS,3
+6/20/2019,3,2019,Adults total,T,Outer,TandS,9
+6/20/2019,3,2019,Nymphs,T,Outer,TandS,18
+6/20/2019,3,2019,NV,T,Inner,TandS,2
+6/20/2019,3,2019,EQ,T,Inner,TandS,4
+6/20/2019,3,2019,ES,T,Inner,TandS,0
+6/20/2019,3,2019,Adults total,T,Inner,TandS,6
+6/20/2019,3,2019,Nymphs,T,Inner,TandS,67
+6/20/2019,3,2019,NV,T,Inner,TandS,5
+6/20/2019,3,2019,EQ,T,Inner,TandS,1
+6/20/2019,3,2019,ES,T,Inner,TandS,5
+6/20/2019,3,2019,Adults total,T,Inner,TandS,11
+6/20/2019,3,2019,Nymphs,T,Inner,TandS,19
+6/20/2019,3,2019,NV,C,Outer,T,8
+6/20/2019,3,2019,EQ,C,Outer,T,3
+6/20/2019,3,2019,ES,C,Outer,T,0
+6/20/2019,3,2019,Adults total,C,Outer,T,11
+6/20/2019,3,2019,Nymphs,C,Outer,T,20
+6/20/2019,3,2019,NV,C,Outer,T,10
+6/20/2019,3,2019,EQ,C,Outer,T,0
+6/20/2019,3,2019,ES,C,Outer,T,1
+6/20/2019,3,2019,Adults total,C,Outer,T,11
+6/20/2019,3,2019,Nymphs,C,Outer,T,29
+6/20/2019,3,2019,NV,C,Inner,T,2
+6/20/2019,3,2019,EQ,C,Inner,T,0
+6/20/2019,3,2019,ES,C,Inner,T,0
+6/20/2019,3,2019,Adults total,C,Inner,T,2
+6/20/2019,3,2019,Nymphs,C,Inner,T,18
+6/20/2019,3,2019,NV,C,Inner,T,1
+6/20/2019,3,2019,EQ,C,Inner,T,1
+6/20/2019,3,2019,ES,C,Inner,T,0
+6/20/2019,3,2019,Adults total,C,Inner,T,2
+6/20/2019,3,2019,Nymphs,C,Inner,T,32
+6/26/2019,4,2019,NV,T,Sorghum,S,28
+6/26/2019,4,2019,EQ,T,Sorghum,S,0
+6/26/2019,4,2019,ES,T,Sorghum,S,3
+6/26/2019,4,2019,Adults total,T,Sorghum,S,31
+6/26/2019,4,2019,Nymphs,T,Sorghum,S,12
+6/26/2019,4,2019,NV,T,Outer,TandS,8
+6/26/2019,4,2019,EQ,T,Outer,TandS,6
+6/26/2019,4,2019,ES,T,Outer,TandS,7
+6/26/2019,4,2019,Adults total,T,Outer,TandS,21
+6/26/2019,4,2019,Nymphs,T,Outer,TandS,11
+6/26/2019,4,2019,NV,T,Outer,TandS,5
+6/26/2019,4,2019,EQ,T,Outer,TandS,2
+6/26/2019,4,2019,ES,T,Outer,TandS,0
+6/26/2019,4,2019,Adults total,T,Outer,TandS,7
+6/26/2019,4,2019,Nymphs,T,Outer,TandS,15
+6/26/2019,4,2019,NV,T,Inner,TandS,5
+6/26/2019,4,2019,EQ,T,Inner,TandS,1
+6/26/2019,4,2019,ES,T,Inner,TandS,1
+6/26/2019,4,2019,Adults total,T,Inner,TandS,7
+6/26/2019,4,2019,Nymphs,T,Inner,TandS,12
+6/26/2019,4,2019,NV,T,Inner,TandS,5
+6/26/2019,4,2019,EQ,T,Inner,TandS,2
+6/26/2019,4,2019,ES,T,Inner,TandS,1
+6/26/2019,4,2019,Adults total,T,Inner,TandS,8
+6/26/2019,4,2019,Nymphs,T,Inner,TandS,29
+6/26/2019,4,2019,NV,C,Outer,T,6
+6/26/2019,4,2019,EQ,C,Outer,T,2
+6/26/2019,4,2019,ES,C,Outer,T,3
+6/26/2019,4,2019,Adults total,C,Outer,T,11
+6/26/2019,4,2019,Nymphs,C,Outer,T,11
+6/26/2019,4,2019,NV,C,Outer,T,0
+6/26/2019,4,2019,EQ,C,Outer,T,1
+6/26/2019,4,2019,ES,C,Outer,T,1
+6/26/2019,4,2019,Adults total,C,Outer,T,2
+6/26/2019,4,2019,Nymphs,C,Outer,T,9
+6/26/2019,4,2019,NV,C,Inner,T,5
+6/26/2019,4,2019,EQ,C,Inner,T,0
+6/26/2019,4,2019,ES,C,Inner,T,1
+6/26/2019,4,2019,Adults total,C,Inner,T,6
+6/26/2019,4,2019,Nymphs,C,Inner,T,3
+6/26/2019,4,2019,NV,C,Inner,T,7
+6/26/2019,4,2019,EQ,C,Inner,T,0
+6/26/2019,4,2019,ES,C,Inner,T,1
+6/26/2019,4,2019,Adults total,C,Inner,T,8
+6/26/2019,4,2019,Nymphs,C,Inner,T,26
+7/3/2019,5,2019,NV,T,Sorghum,S,75
+7/3/2019,5,2019,EQ,T,Sorghum,S,0
+7/3/2019,5,2019,ES,T,Sorghum,S,5
+7/3/2019,5,2019,Adults total,T,Sorghum,S,80
+7/3/2019,5,2019,Nymphs,T,Sorghum,S,0
+7/3/2019,5,2019,NV,T,Outer,TandS,7
+7/3/2019,5,2019,EQ,T,Outer,TandS,1
+7/3/2019,5,2019,ES,T,Outer,TandS,3
+7/3/2019,5,2019,Adults total,T,Outer,TandS,11
+7/3/2019,5,2019,Nymphs,T,Outer,TandS,15
+7/3/2019,5,2019,NV,T,Outer,TandS,8
+7/3/2019,5,2019,EQ,T,Outer,TandS,1
+7/3/2019,5,2019,ES,T,Outer,TandS,1
+7/3/2019,5,2019,Adults total,T,Outer,TandS,10
+7/3/2019,5,2019,Nymphs,T,Outer,TandS,10
+7/3/2019,5,2019,NV,T,Inner,TandS,10
+7/3/2019,5,2019,EQ,T,Inner,TandS,1
+7/3/2019,5,2019,ES,T,Inner,TandS,1
+7/3/2019,5,2019,Adults total,T,Inner,TandS,12
+7/3/2019,5,2019,Nymphs,T,Inner,TandS,4
+7/3/2019,5,2019,NV,T,Inner,TandS,1
+7/3/2019,5,2019,EQ,T,Inner,TandS,0
+7/3/2019,5,2019,ES,T,Inner,TandS,1
+7/3/2019,5,2019,Adults total,T,Inner,TandS,2
+7/3/2019,5,2019,Nymphs,T,Inner,TandS,17
+7/3/2019,5,2019,NV,C,Outer,T,11
+7/3/2019,5,2019,EQ,C,Outer,T,4
+7/3/2019,5,2019,ES,C,Outer,T,4
+7/3/2019,5,2019,Adults total,C,Outer,T,19
+7/3/2019,5,2019,Nymphs,C,Outer,T,4
+7/3/2019,5,2019,NV,C,Outer,T,4
+7/3/2019,5,2019,EQ,C,Outer,T,2
+7/3/2019,5,2019,ES,C,Outer,T,3
+7/3/2019,5,2019,Adults total,C,Outer,T,9
+7/3/2019,5,2019,Nymphs,C,Outer,T,8
+7/3/2019,5,2019,NV,C,Inner,T,6
+7/3/2019,5,2019,EQ,C,Inner,T,4
+7/3/2019,5,2019,ES,C,Inner,T,2
+7/3/2019,5,2019,Adults total,C,Inner,T,12
+7/3/2019,5,2019,Nymphs,C,Inner,T,9
+7/3/2019,5,2019,NV,C,Inner,T,4
+7/3/2019,5,2019,EQ,C,Inner,T,1
+7/3/2019,5,2019,ES,C,Inner,T,3
+7/3/2019,5,2019,Adults total,C,Inner,T,8
+7/3/2019,5,2019,Nymphs,C,Inner,T,18
+7/10/2019,6,2019,NV,T,Sorghum,S,125
+7/10/2019,6,2019,EQ,T,Sorghum,S,0
+7/10/2019,6,2019,ES,T,Sorghum,S,4
+7/10/2019,6,2019,Adults total,T,Sorghum,S,129
+7/10/2019,6,2019,Nymphs,T,Sorghum,S,6
+7/10/2019,6,2019,NV,T,Outer,TandS,12
+7/10/2019,6,2019,EQ,T,Outer,TandS,2
+7/10/2019,6,2019,ES,T,Outer,TandS,2
+7/10/2019,6,2019,Adults total,T,Outer,TandS,16
+7/10/2019,6,2019,Nymphs,T,Outer,TandS,6
+7/10/2019,6,2019,NV,T,Outer,TandS,9
+7/10/2019,6,2019,EQ,T,Outer,TandS,7
+7/10/2019,6,2019,ES,T,Outer,TandS,4
+7/10/2019,6,2019,Adults total,T,Outer,TandS,20
+7/10/2019,6,2019,Nymphs,T,Outer,TandS,32
+7/10/2019,6,2019,NV,T,Inner,TandS,6
+7/10/2019,6,2019,EQ,T,Inner,TandS,2
+7/10/2019,6,2019,ES,T,Inner,TandS,0
+7/10/2019,6,2019,Adults total,T,Inner,TandS,8
+7/10/2019,6,2019,Nymphs,T,Inner,TandS,6
+7/10/2019,6,2019,NV,T,Inner,TandS,2
+7/10/2019,6,2019,EQ,T,Inner,TandS,2
+7/10/2019,6,2019,ES,T,Inner,TandS,0
+7/10/2019,6,2019,Adults total,T,Inner,TandS,4
+7/10/2019,6,2019,Nymphs,T,Inner,TandS,15
+7/10/2019,6,2019,NV,C,Outer,T,10
+7/10/2019,6,2019,EQ,C,Outer,T,1
+7/10/2019,6,2019,ES,C,Outer,T,0
+7/10/2019,6,2019,Adults total,C,Outer,T,11
+7/10/2019,6,2019,Nymphs,C,Outer,T,1
+7/10/2019,6,2019,NV,C,Outer,T,7
+7/10/2019,6,2019,EQ,C,Outer,T,4
+7/10/2019,6,2019,ES,C,Outer,T,0
+7/10/2019,6,2019,Adults total,C,Outer,T,11
+7/10/2019,6,2019,Nymphs,C,Outer,T,4
+7/10/2019,6,2019,NV,C,Inner,T,8
+7/10/2019,6,2019,EQ,C,Inner,T,0
+7/10/2019,6,2019,ES,C,Inner,T,0
+7/10/2019,6,2019,Adults total,C,Inner,T,8
+7/10/2019,6,2019,Nymphs,C,Inner,T,5
+7/10/2019,6,2019,NV,C,Inner,T,5
+7/10/2019,6,2019,EQ,C,Inner,T,1
+7/10/2019,6,2019,ES,C,Inner,T,2
+7/10/2019,6,2019,Adults total,C,Inner,T,8
+7/10/2019,6,2019,Nymphs,C,Inner,T,9
+7/17/2019,7,2019,NV,T,Sorghum,S,35
+7/17/2019,7,2019,EQ,T,Sorghum,S,2
+7/17/2019,7,2019,ES,T,Sorghum,S,3
+7/17/2019,7,2019,Adults total,T,Sorghum,S,40
+7/17/2019,7,2019,Nymphs,T,Sorghum,S,4
+7/17/2019,7,2019,NV,T,Outer,TandS,1
+7/17/2019,7,2019,EQ,T,Outer,TandS,2
+7/17/2019,7,2019,ES,T,Outer,TandS,2
+7/17/2019,7,2019,Adults total,T,Outer,TandS,5
+7/17/2019,7,2019,Nymphs,T,Outer,TandS,9
+7/17/2019,7,2019,NV,T,Outer,TandS,3
+7/17/2019,7,2019,EQ,T,Outer,TandS,2
+7/17/2019,7,2019,ES,T,Outer,TandS,2
+7/17/2019,7,2019,Adults total,T,Outer,TandS,7
+7/17/2019,7,2019,Nymphs,T,Outer,TandS,3
+7/17/2019,7,2019,NV,T,Inner,TandS,2
+7/17/2019,7,2019,EQ,T,Inner,TandS,1
+7/17/2019,7,2019,ES,T,Inner,TandS,2
+7/17/2019,7,2019,Adults total,T,Inner,TandS,5
+7/17/2019,7,2019,Nymphs,T,Inner,TandS,3
+7/17/2019,7,2019,NV,T,Inner,TandS,5
+7/17/2019,7,2019,EQ,T,Inner,TandS,3
+7/17/2019,7,2019,ES,T,Inner,TandS,0
+7/17/2019,7,2019,Adults total,T,Inner,TandS,8
+7/17/2019,7,2019,Nymphs,T,Inner,TandS,1
+7/17/2019,7,2019,NV,C,Outer,T,3
+7/17/2019,7,2019,EQ,C,Outer,T,4
+7/17/2019,7,2019,ES,C,Outer,T,0
+7/17/2019,7,2019,Adults total,C,Outer,T,7
+7/17/2019,7,2019,Nymphs,C,Outer,T,3
+7/17/2019,7,2019,NV,C,Outer,T,1
+7/17/2019,7,2019,EQ,C,Outer,T,1
+7/17/2019,7,2019,ES,C,Outer,T,0
+7/17/2019,7,2019,Adults total,C,Outer,T,2
+7/17/2019,7,2019,Nymphs,C,Outer,T,3
+7/17/2019,7,2019,NV,C,Inner,T,2
+7/17/2019,7,2019,EQ,C,Inner,T,3
+7/17/2019,7,2019,ES,C,Inner,T,0
+7/17/2019,7,2019,Adults total,C,Inner,T,5
+7/17/2019,7,2019,Nymphs,C,Inner,T,2
+7/17/2019,7,2019,NV,C,Inner,T,2
+7/17/2019,7,2019,EQ,C,Inner,T,2
+7/17/2019,7,2019,ES,C,Inner,T,1
+7/17/2019,7,2019,Adults total,C,Inner,T,5
+7/17/2019,7,2019,Nymphs,C,Inner,T,4
